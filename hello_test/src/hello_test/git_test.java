@@ -8,6 +8,7 @@ public class git_test {
 
 	public static void main(String[] args) {
 		int res = git_test.mul(10, 5);
+		System.out.println(res);
 
 	}
 
